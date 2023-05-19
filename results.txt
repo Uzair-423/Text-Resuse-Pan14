@@ -1,0 +1,57 @@
+stop word ngrams (5grams):
+    No obfuscation cases/no plag cases:
+        Plagdet Score 0.5362214660780751
+        Recall 0.89262696212225
+        Precision 0.3838077030177496
+        Granularity 1.0015045135406218
+    
+    Obfuscation/no plag cases:
+        Plagdet Score 0.24134196536173363
+        Recall 0.2541943157446137
+        Precision 0.5895397383072417
+        Granularity 1.7738187451587917
+
+    all cases:
+        Plagdet Score 0.45175213170740125
+        Recall 0.5798314291440833
+        Precision 0.5128050272943564
+        Granularity 1.3050228310502283
+
+ngrams (5 grams):
+    No obfuscation/no plag cases:
+        Plagdet Score 0.9397115288607379
+        Recall 0.9538047055077218
+        Precision 0.9260287625094374
+        Granularity 1.0
+
+    Obfuscation/noplag cases:
+        Plagdet Score 0.0879719296663113
+        Recall 0.054733412465941954
+        Precision 0.9755256666591829
+        Granularity 1.262992125984252
+
+    all cases:
+        Plagdet Score 0.6351924683942524    
+        Recall 0.5133111219041876
+        Precision 0.9404808087107848
+        Granularity 1.0641813989239046
+
+
+jaccard
+    obfuscation/no plag:
+        Plagdet Score 0.7004361205710747
+        Recall 0.7411921289091647
+        Precision 0.822586205028554
+        Granularity 1.1633466135458168
+
+    no obfuscation/plag:
+        Plagdet Score 0.7841190227642028
+        Recall 0.9422902188200457
+        Precision 0.6714162582654216
+        Granularity 1.0
+    
+    all:
+        Plagdet Score 0.7521251214621987
+        Recall 0.8437636403759999
+        Precision 0.7487337802008497
+        Granularity 1.0775675675675676
